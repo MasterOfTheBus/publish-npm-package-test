@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MasterOfTheBus/publish-npm-package-test/issues"
   },
-  "homepage": "https://github.com/MasterOfTheBus/publish-npm-package-test#readme"
+  "homepage": "https://github.com/MasterOfTheBus/publish-npm-package-test#readme",
+  "publishConfig": {
+   "@MasterOfTheBus:registry": "https://npm.pkg.github.com"
+ }
 }
