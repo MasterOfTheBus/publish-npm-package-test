@@ -1,5 +1,5 @@
 {
-  "name": "publish-npm-package-test",
+  "name": "@MasterOfTheBus/publish-npm-package-test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
